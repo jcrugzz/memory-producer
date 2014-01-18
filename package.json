@@ -1,7 +1,7 @@
 {
   "name": "memory-producer",
   "description": "Emits average memory of your node process at a particular ttl as a readable stream",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "author": "Jarrett Cruger <jcrugzz@gmail.com>",
   "repository": {
     "url": "git://github.com/jcrugzz/memory-producer.git"
