@@ -48,6 +48,7 @@ Memory.prototype.produce = function () {
       // with this being the data for more complex analysis
       //
       meta: process.memoryUsage(),
+      tags: this.values.tags,
       ttl: this.values.ttl
     });
   }, this);
