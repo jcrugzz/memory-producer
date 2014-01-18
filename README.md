@@ -1,5 +1,8 @@
 # memory-producer
 
+[![build
+status](https://secure.travis-ci.org/jcrugzz/memory-producer.png)](http://travis-ci.org/jcrugzz/memory-producer)
+
 A readable stream based off of [`producer`][producer] that emits
 a [`godot`][godot] event object on each ttl.
 
