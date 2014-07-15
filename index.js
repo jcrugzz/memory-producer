@@ -2,7 +2,7 @@
  * memory.js :: responsible for assessing state of memory on the machine and if
  * we should worry about it
  *
- * (C) 2013, Nodejitsu Inc.
+ * (C) 2014, Jarrett Cruger, MIT
  *
  */
 

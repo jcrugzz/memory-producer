@@ -9,7 +9,7 @@ a [`godot`][godot] event object on each ttl.
 ## example
 
 ```js
-var Memory = require('memory');
+var Memory = require('memory-producer');
 
 //
 // Emits a free and used memory event every 5 seconds
